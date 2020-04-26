@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecretKey": "esen mern",
+    "mongoURL": "mongodb+srv://esen:1234@cluster0-eyqag.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
